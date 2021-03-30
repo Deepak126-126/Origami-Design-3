@@ -1,0 +1,17 @@
+body{
+    background-color:#1A91A9;
+    
+}
+p{
+    color: maroon;
+  }
+   li{
+       color: midnightblue;
+   }
+  img{
+      border: solid;
+      display: flexbox;
+  }
+  h1{
+      background-color: pink;
+  }
